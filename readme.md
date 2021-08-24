@@ -4,8 +4,8 @@
 
 ### Libraries & frameworks
 
-* pywebview
-* vue.js
+* PyWebView
+* Quasar Framework
 
 ### Roadmap
 
