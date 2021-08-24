@@ -3,7 +3,7 @@
 **Py**thon **P**ersonal **I**nformation **M**anger
 
 
-### Libraries & frameworks
+### Libraries & Frameworks
 
 * [PyWebView](https://pywebview.flowrl.com/)
 * [Quasar Framework](https://quasar.dev/)
