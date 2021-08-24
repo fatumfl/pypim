@@ -2,6 +2,7 @@
 
 **Py**thon **P**ersonal **I**nformation **M**anger
 
+📝 📓 🖊️ ⏺️ ✉️ ⏳
 
 ### Libraries & Frameworks
 
